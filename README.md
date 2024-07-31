@@ -1,2 +1,2 @@
 # SistemaPetShop
- Proejto final da disciplina de Programação do segundo ano IFRS 2019 
+ Projeto final da disciplina de Programação do segundo ano IFRS 2019 
